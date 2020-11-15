@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15E4567A-2161-4275-AAF7-3DB640AC7CFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "988E63E7-1A99-403E-82D8-1E6440E443EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/&#x5c0f;&#x9a6c;&#x54e5;&#x5927;&#x795e;&#x73ed;11&#x671f;/11&#x671f;&#x8d44;&#x6599;/08-Swift&#x9879;&#x76ee;/Classes/Main/MainController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "172026F2-30F2-4756-B013-373682B7A0C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/&#x5c0f;&#x9a6c;&#x54e5;&#x5927;&#x795e;&#x73ed;11&#x671f;/11&#x671f;&#x8d44;&#x6599;/08-Swift&#x9879;&#x76ee;/Classes/Tools/Category/UIButton-Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "UIButton"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "105EF9BB-E1F3-4352-85C9-0A30BBC00C75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/&#x5c0f;&#x9a6c;&#x54e5;&#x5927;&#x795e;&#x73ed;11&#x671f;/11&#x671f;&#x8d44;&#x6599;/08-Swift&#x9879;&#x76ee;/Classes/Tools/Category/UIButton-Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UIButton"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
